@@ -16,7 +16,7 @@
     "jsonwebtoken": "*",
     "mongoose": "*",
     "passport": "*",
-    "passport-jwt": "*"
+    "passport-jwt": "^4.0.0"
   },
   "author": "Ajmal",
   "license": "ISC"
